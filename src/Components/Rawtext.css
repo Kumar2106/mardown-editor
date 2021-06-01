@@ -1,0 +1,14 @@
+/** @format */
+
+.rawtext {
+	width: 50vw;
+}
+
+.raw__input {
+	margin: 20px;
+}
+
+.raw__text_input {
+	width: 100%;
+	height: 100%;
+}
